@@ -1,4 +1,4 @@
-### Human Activity Recognition Using Smartphones Dataset, Version 1.0
+### Human Activity Recognition Dataset
 ###The `run_analysis.R` script is used to prepare the data as defined in the course project.
 
 #### Download and extract the dataset
